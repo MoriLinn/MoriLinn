@@ -1,0 +1,5 @@
+D:\!!!\APP1\APP1\bin\APP1.dll
+D:\!!!\APP1\APP1\bin\APP1.pdb
+D:\!!!\APP1\APP1\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!\APP1\APP1\obj\Debug\APP1.dll
+D:\!!!\APP1\APP1\obj\Debug\APP1.pdb
